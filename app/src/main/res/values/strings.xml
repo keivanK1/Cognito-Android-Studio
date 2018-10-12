@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IndoorFarming</string>
+    <!-- Strings related to login -->
+
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name="RepeatPassword">Repeat Password</string>
+    <string name="Mobile">Mobile</string>
+    <string name="Email">Email</string>
+    <string name="Username">Username</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="ConfCode">Enter Confirmation Code Here</string>
+    <string name="Confirm">Confirm</string>
+    <string name="Verify">Verify</string>
+    <string name="NotAccount">Don\'t have account?</string>
+    <string name="ForgetPass">Forget Your Password?</string>
+    <string name="AgreeTerms">Agree to the Terms and Conditions</string>
+
+</resources>
