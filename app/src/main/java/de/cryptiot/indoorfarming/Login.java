@@ -17,7 +17,7 @@ import android.widget.TextView;
 public class Login extends AppCompatActivity {
     // ############################################################# View Components
     TextView txtNotAccount;     // For creating account
-    TextView txtForgetPass;     // For retrieving password
+    //TextView txtForgetPass;     // For retrieving password
     Button btnLogin;            // Button for Login
     EditText etUsername;
     EditText etPassword;
@@ -33,7 +33,7 @@ public class Login extends AppCompatActivity {
 
     private void initViewComponents(){
         txtNotAccount = findViewById(R.id.txtNotAccount);
-        txtForgetPass= findViewById(R.id.txtForgetPass);
+        //txtForgetPass= findViewById(R.id.txtForgetPass);
         btnLogin = findViewById(R.id.btnLogin);
         etUsername = findViewById(R.id.etUsername);
         etPassword = findViewById(R.id.etPassword);

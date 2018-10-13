@@ -22,7 +22,7 @@
             android:name=".Signup"
             android:label="@string/SignUp" />
         <activity android:name=".Login">
-            <!--android:label="@string/Login">-->
+            android:label="@string/Login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
